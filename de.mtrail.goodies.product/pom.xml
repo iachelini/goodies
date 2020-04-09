@@ -14,7 +14,7 @@
 	<version>4.0.2-SNAPSHOT</version>
 	<groupId>de.mtrail.goodies.group</groupId>
 	<artifactId>de.mtrail.goodies.product</artifactId>
-	<packaging>eclipse-application</packaging>
+	<packaging>eclipse-repository</packaging>
 	<name>de.mtrail.goodies.product</name>
 
 	<parent>

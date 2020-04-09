@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Test
 Bundle-SymbolicName: de.mtrail.goodies.test
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 4.0.2.qualifier
 Bundle-Vendor: Gilles Iachelini, mtrail GmbH
 Fragment-Host: de.mtrail.goodies
 Automatic-Module-Name: de.mtrail.goodies.test

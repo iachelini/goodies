@@ -1,1 +1,3 @@
-/bin/
+/bin
+/maven-changelog.xml
+/target
